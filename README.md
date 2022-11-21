@@ -1,4 +1,4 @@
-# build-rest-api-with-nodejs-and-express
+# Build-REST-API-With-Nodejs-and-Express
 
 - clone this repo 
 - npm i 
