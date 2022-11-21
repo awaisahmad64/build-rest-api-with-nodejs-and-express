@@ -1,0 +1,5 @@
+npm init -y
+npm i express
+node index.js
+open this linke in browser
+http://127.0.0.1:3000/api/courses/2
