@@ -3,5 +3,5 @@
 - clone this repo 
 - npm i 
 - node index.js
-- open this url in browser: http://127.0.0.1:3000
+- Then, load http://localhost:3000/ in a browser to see the output.
 
