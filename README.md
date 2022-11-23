@@ -3,5 +3,5 @@
 - clone this repo 
 - npm i 
 - node index.js
-- Then, load http://localhost:3000/ in a browser to see the output.
+- Then, load http://localhost:3000/ in a browser to see the output and test API.
 
